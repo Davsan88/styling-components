@@ -6,7 +6,13 @@ const StyledButton = () => {
         color: 'darkgreen',
         backgroundColor: 'darkyellow'
     }
-    
+    const StyledButton = {
+        padding: '8px 12px',
+        border: '2px solid black'
+        borderRadius: '8px' 
+        color: 'darkgreen',
+        backgroundColor: 'darkyellow'
+    }
   
     return (
     <div>
